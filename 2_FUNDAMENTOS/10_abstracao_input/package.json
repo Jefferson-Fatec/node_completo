@@ -10,6 +10,6 @@
   "author": "Jefferson <jefferson.oliveira55@fatec.sp.gov.br> ",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "inquirer": "^8.2.7"
   }
 }
